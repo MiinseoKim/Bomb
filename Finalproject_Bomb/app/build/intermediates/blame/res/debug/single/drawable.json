@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lable_green.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\lable_green.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boom3.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\boom3.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\a.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cplus.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\cplus.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_symbol.png",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.16\\res\\drawable\\kakao_login_symbol.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bomb4.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\bomb4.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lable_lemon.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\lable_lemon.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\f.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lable_yellow.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\lable_yellow.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boom2.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\boom2.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_default_profile_image.png",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.16\\res\\drawable\\kakao_default_profile_image.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cal_gray.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\cal_gray.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\label_orangepink.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\label_orangepink.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_profile_boxbg.9.png",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.16\\res\\drawable\\kakao_profile_boxbg.9.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_main.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\background_main.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\b.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lable_purple.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\lable_purple.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_main.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\icon_main.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_gray.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\add_gray.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_editable_profile.png",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.16\\res\\drawable\\kakao_editable_profile.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\label_aqua.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\label_aqua.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_gray.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\tt_gray.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\label_peach.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\label_peach.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_button_background.9.png",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.16\\res\\drawable\\kakao_login_button_background.9.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_plus.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\icon_plus.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_account_logo.png",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.16\\res\\drawable\\kakao_account_logo.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\list.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bomb.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\bomb.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\label_green.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\label_green.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\popup.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_plus.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\background_plus.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_gray.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\list_gray.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_account_button_background.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.16\\res\\drawable\\kakao_account_button_background.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manual_page.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\manual_page.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ttbg.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\ttbg.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bplus.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\bplus.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bomb2.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\bomb2.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\drawer_menu.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bomb3.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\bomb3.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\side.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_white.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\add_white.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reset.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\reset.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lable_grey.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\lable_grey.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_cancel_button_background.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.16\\res\\drawable\\kakao_cancel_button_background.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\label_blue.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\label_blue.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\label_skyblue.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\label_skyblue.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lable_piiink.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\lable_piiink.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boom1.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\boom1.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\boom4.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\boom4.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lable_orange.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\lable_orange.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aplus.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\aplus.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manual.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\manual.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\label_piink.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\label_piink.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\destroybnt.png",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\destroybnt.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_bar.png",
+        "source": "C:\\161127\\app\\build\\intermediates\\exploded-aar\\com.kakao.sdk\\util\\1.1.16\\res\\drawable\\kakao_login_bar.png"
+    },
+    {
+        "merged": "C:\\161127\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\label_pink.xml",
+        "source": "C:\\161127\\app\\src\\main\\res\\drawable\\label_pink.xml"
+    }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/hwCal"
+            android:icon="@drawable/cal_gray"
+            android:title="달력" />
+        <item
+            android:id="@+id/hwTt"
+            android:icon="@drawable/tt_gray"
+            android:title="시간표" />
+        <item
+            android:id="@+id/hwList"
+            android:icon="@drawable/list_gray"
+            android:title="과제보기" />
+        <item
+            android:id="@+id/hwPlus"
+            android:icon="@drawable/add_gray"
+            android:title="과제추가" />
+
+    </group>
+
+</menu>

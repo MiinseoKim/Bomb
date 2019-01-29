@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:2:1-83:12
+	package
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\161127\app\src\main\AndroidManifest.xml
+		INJECTED from C:\161127\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\161127\app\src\main\AndroidManifest.xml
+		INJECTED from C:\161127\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\161127\app\src\main\AndroidManifest.xml
+		INJECTED from C:\161127\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:7:5-81:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:10:9-25
+	android:supportsRtl
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:9:9-38
+	android:theme
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:12:9-51
+activity#org.androidtown.myapplication123.MainActivity
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:13:9-28:20
+	android:label
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:16:13-45
+	android:configChanges
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:15:13-63
+	android:theme
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:18:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:21:27-74
+meta-data#com.kakao.sdk.AppKey
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:30:9-32:53
+	android:value
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:32:13-50
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:31:13-48
+activity#org.androidtown.myapplication123.manual
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:34:9-37:65
+	android:label
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:36:13-45
+	android:theme
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:37:13-53
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:35:13-35
+activity#org.androidtown.myapplication123.hwList
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:38:9-41:68
+	android:label
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:40:13-45
+	android:theme
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:39:13-35
+activity#org.androidtown.myapplication123.hwTT
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:42:9-45:59
+	android:label
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:44:13-45
+	android:theme
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:43:13-33
+activity#org.androidtown.myapplication123.hwTtPlus
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:46:9-49:59
+	android:label
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:48:13-45
+	android:theme
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:47:13-37
+activity#org.androidtown.myapplication123.hwCal
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:50:9-53:59
+	android:label
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:52:13-45
+	android:theme
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:51:13-34
+activity#org.androidtown.myapplication123.hwPlus
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:54:9-57:59
+	android:label
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:56:13-45
+	android:theme
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:55:13-35
+activity#org.androidtown.myapplication123.SplashActivity
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:58:9-52
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:58:19-49
+activity#org.androidtown.myapplication123.Splash2Activity
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:59:9-53
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:59:19-50
+activity#org.androidtown.myapplication123.Splash3Activity
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:60:9-53
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:60:19-50
+activity#org.androidtown.myapplication123.Splash4Activity
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:61:9-53
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:61:19-50
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:63:9-85
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:63:26-82
+receiver#org.androidtown.myapplication123.AlarmReceiver
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:65:9-69:41
+	android:enabled
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:67:13-35
+	android:process
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:69:13-38
+	android:exported
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:68:13-36
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:66:13-42
+uses-permission#android.permission.VIBRATE
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:71:9-70
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:71:26-67
+receiver#org.androidtown.myapplication123.BootReceiver
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:73:9-80:20
+	android:enabled
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:75:13-35
+	android:exported
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:74:13-41
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:77:13-79:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\161127\app\src\main\AndroidManifest.xml:78:17-79
+	android:name
+		ADDED from C:\161127\app\src\main\AndroidManifest.xml:78:25-76
+uses-sdk
+INJECTED from C:\161127\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.kakao.sdk:kakaolink:1.1.16] C:\161127\app\build\intermediates\exploded-aar\com.kakao.sdk\kakaolink\1.1.16\AndroidManifest.xml:11:5-13:41
+MERGED from [com.kakao.sdk:util:1.1.16] C:\161127\app\build\intermediates\exploded-aar\com.kakao.sdk\util\1.1.16\AndroidManifest.xml:11:5-13:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\161127\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\161127\app\src\main\AndroidManifest.xml
+		INJECTED from C:\161127\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\161127\app\src\main\AndroidManifest.xml
+		INJECTED from C:\161127\app\src\main\AndroidManifest.xml

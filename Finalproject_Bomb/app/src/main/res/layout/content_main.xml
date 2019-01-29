@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:background="@drawable/background_main"
+    tools:showIn="@layout/app_bar_main"
+    tools:context="org.androidtown.myapplication123.MainActivity">
+
+    <TextView
+        android:id="@+id/todo"
+        android:textSize="50dp"
+        android:textColor="#ffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginBottom="29dp"/>
+    <TextView
+        android:id="@+id/todo2"
+        android:text="제거할 폭탄"
+        android:textSize="18dp"
+        android:textColor="#627485"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="65dp" />
+
+    <TextView
+        android:id="@+id/done"
+        android:textSize="50dp"
+        android:textColor="#ffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="29dp"/>
+
+    <TextView
+        android:id="@+id/done2"
+        android:text="제거한 폭탄"
+        android:textSize="18dp"
+        android:textColor="#627485"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="65dp"/>
+
+    <TextView
+        android:id="@+id/miss"
+        android:textSize="50dp"
+        android:textColor="#ffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="29dp"/>
+
+    <TextView
+        android:id="@+id/miss2"
+        android:text="총 폭탄"
+        android:textSize="18dp"
+        android:textColor="#627485"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="13dp"
+        android:layout_marginTop="65dp"/>
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="190dp"
+        android:id="@+id/grade"
+        android:layout_centerHorizontal="true" />
+
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="70dp"
+        android:id="@+id/btn_cal"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/btn_tt"
+        android:layout_marginLeft="25dp"
+        android:drawableLeft="@drawable/icon_main"
+        android:drawablePadding="4dp"
+        android:text="Calendar"
+        android:textSize="18dp"
+        android:textColor="#ffffff"
+        android:background="#00ff0000"/>
+
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="70dp"
+        android:id="@+id/btn_tt"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="25dp"
+        android:drawableLeft="@drawable/icon_main"
+        android:drawablePadding="4dp"
+        android:text="Timetable"
+        android:textColor="#ffffff"
+        android:textSize="18dp"
+        android:layout_alignParentBottom="true"
+        android:background="#00ff0000"/>
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="70dp"
+        android:id="@+id/btn_list"
+        android:layout_marginRight="25dp"
+        android:layout_alignParentEnd="true"
+        android:layout_above="@+id/btn_plus"
+        android:drawableLeft="@drawable/icon_main"
+        android:drawablePadding="4dp"
+        android:text="HW List"
+        android:textSize="18dp"
+        android:textColor="#ffffff"
+        android:background="#00ff0000"/>
+
+
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="70dp"
+        android:id="@+id/btn_plus"
+        android:layout_marginRight="25dp"
+        android:drawableLeft="@drawable/icon_main"
+        android:drawablePadding="4dp"
+        android:text="Add Homework"
+        android:textColor="#ffffff"
+        android:textSize="18dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:background="#00ff0000"/>
+
+
+</RelativeLayout>

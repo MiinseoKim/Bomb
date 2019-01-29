@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="150dip"
+    android:orientation="vertical"
+    android:background="@drawable/background_plus"
+    tools:showIn="@layout/app_bar_hw_tt_plus">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="과목 : "
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:id="@+id/tv_subject"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:textIsSelectable="false"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#3d3d3d"/>
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/et_subject"
+            android:hint="프로젝트종합설계1"
+            android:layout_weight="5"
+            android:adjustViewBounds="true"
+            android:layout_below="@+id/tv_subject"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#3d3d3d"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center_horizontal">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="강의실 : "
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:id="@+id/tv_Room"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:textIsSelectable="false"
+            android:layout_below="@+id/et_subject"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#3d3d3d"/>
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/et_Room"
+            android:hint="2과306"
+            android:layout_weight="5"
+            android:adjustViewBounds="true"
+            android:layout_below="@+id/tv_subject"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#3d3d3d"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="300dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center_horizontal">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="요일 : "
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:id="@+id/tv_week"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:textIsSelectable="false"
+            android:layout_below="@+id/et_subject"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_gravity="center_vertical"
+            android:textColor="#3d3d3d"/>
+
+        <RadioGroup
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:id="@+id/rg_week"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="월"
+                android:id="@+id/rdBtn_mon"
+                android:textColor="#3d3d3d"
+                />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rdBtn_tue"
+                android:text="화"
+                android:textColor="#3d3d3d"/>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="수"
+                android:id="@+id/rdBtn_wed"
+                android:textColor="#3d3d3d"/>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="목"
+                android:id="@+id/rdBtn_thu"
+                android:textColor="#3d3d3d"/>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="금"
+                android:id="@+id/rdBtn_fri"
+                android:textColor="#3d3d3d"/>
+
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="300dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center_horizontal">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="시작 : "
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:id="@+id/tv_stime"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:textIsSelectable="false"
+            android:layout_below="@+id/et_subject"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_gravity="center_vertical"
+            android:textColor="#3d3d3d"/>
+
+        <RadioGroup
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:id="@+id/rg_stime"
+            android:transitionGroup="false"
+            android:touchscreenBlocksFocus="false"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1"
+                android:id="@+id/srdBtn_1"
+                android:textColor="#3d3d3d"/>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2"
+                android:id="@+id/srdBtn_2"
+                android:textColor="#3d3d3d"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3"
+                android:id="@+id/srdBtn_3"
+                android:textColor="#3d3d3d"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4"
+                android:id="@+id/srdBtn_4"
+                android:textColor="#3d3d3d"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5"
+                android:id="@+id/srdBtn_5"
+                android:textColor="#3d3d3d"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="6"
+                android:id="@+id/srdBtn_6"
+                android:textColor="#3d3d3d"/>
+
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="300dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center_horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="종료 :"
+            android:paddingRight="15dp"
+            android:adjustViewBounds="true"
+            android:id="@+id/tv_etime"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:textIsSelectable="false"
+            android:layout_below="@+id/et_s"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_gravity="center_vertical"
+            android:textColor="#3d3d3d" />
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/rg_etime"
+            android:transitionGroup="false"
+            android:touchscreenBlocksFocus="false"
+            android:orientation="horizontal"
+            android:layout_weight="5">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1"
+                android:id="@+id/erdBtn_1"
+                android:textColor="#3d3d3d"/>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2"
+                android:id="@+id/erdBtn_2"
+                android:textColor="#3d3d3d"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3"
+                android:id="@+id/erdBtn_3"
+                android:textColor="#3d3d3d"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4"
+                android:id="@+id/erdBtn_4"
+                android:textColor="#3d3d3d"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5"
+                android:id="@+id/erdBtn_5"
+                android:textColor="#3d3d3d"/>
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="6"
+                android:id="@+id/erdBtn_6"
+                android:textColor="#3d3d3d"/>
+
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dip"
+        android:gravity="center_vertical|center_horizontal">
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:id="@+id/btn_ok"
+            android:layout_marginStart="65dp"
+            android:text="OK"
+            android:textColor="#ffffff"
+            android:layout_below="@+id/linearLayout"
+            android:layout_alignStart="@+id/linearLayout"
+            android:onClick="addDB"
+            android:layout_marginLeft="65dp"
+            android:layout_alignLeft="@+id/linearLayout" />
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="CANCEL"
+            android:id="@+id/btn_no"
+            android:layout_below="@+id/linearLayout"
+            android:layout_toEndOf="@+id/btn_plus_ok"
+            android:textColor="#ffffff"
+            android:onClick="close"
+            android:layout_toRightOf="@+id/btn_plus_ok" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">과제BomB</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="spiner_promp">과목을 선택하세요</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="day_of_week">
+        <item>sun</item>
+        <item>mon</item>
+        <item>tue</item>
+        <item>wed</item>
+        <item>thu</item>
+        <item>fri</item>
+        <item>sat</item>
+    </string-array>
+
+    <string name="kakao_app_key">c3fe503b39feb26ba69ca9cfd626b586</string>
+    <string name="kakao_scheme">kakaoc3fe503b39feb26ba69ca9cfd626b586</string>
+    <string name="kakaolink_host">kakaolink</string>
+
+</resources>

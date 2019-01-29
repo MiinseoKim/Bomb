@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popup_element"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="10sp" >
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_content"
+            android:src="@drawable/popup"
+            android:layout_marginBottom="21dp"
+            android:layout_alignParentStart="true" />
+
+
+            <Button
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:text="다지보지 않기"
+                android:id="@+id/btn_real_close"
+                android:layout_marginLeft="15dp"
+                android:layout_alignParentBottom="true"
+                android:background="#ffffff"
+                android:layout_marginStart="30dp"
+                android:layout_marginBottom="20dp"
+                android:layout_alignTop="@+id/btn_close_popup" />
+
+            <Button
+                android:id="@+id/btn_close_popup"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:background="#ffffff"
+                android:text="닫기"
+                android:layout_marginBottom="20dp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginRight="20dp"
+                android:layout_toEndOf="@+id/btn_real_close" />
+
+
+</RelativeLayout>

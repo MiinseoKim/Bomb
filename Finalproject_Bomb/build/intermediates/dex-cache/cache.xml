@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_3cf891582059d334d50e9f363fbab89fb39ab181.jar" />
+    </item>
+    <item
+        jar="C:\Users\민서\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_860cc6247fd5396acaea606e186446266bfcd192.jar" />
+    </item>
+    <item
+        jar="C:\161127\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="af4ed36c05dd74cdb4fb11842c3a2043b5828a03">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6e8a64e8fddebe507e4929693f80ccdc482df7d4.jar" />
+    </item>
+    <item
+        jar="C:\161127\app\libs\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_a30cf0a265c9ba698400211be1b8fa526a14fccc.jar" />
+    </item>
+    <item
+        jar="C:\161127\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="08c4ba28a8949fc57ff1d73d5891f357b91372da">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\instant-run_3f83b2b8298805c4e0407003377253ce405bf8fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\민서\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_c7aafb90d0f9478170ad0e3b31556bca576c833d.jar" />
+    </item>
+    <item
+        jar="C:\161127\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_fd9d8d0663a37eb0d71885ade3f51d68c9f97b9e.jar" />
+    </item>
+    <item
+        jar="C:\161127\app\build\intermediates\exploded-aar\com.kakao.sdk\util\1.1.16\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6716317904405e5db6a87c0314e50fa1fb796874">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\com.kakao.sdk-util-1.1.16_691342495ac322b8b417ac93ea3058e7b1b88735.jar" />
+    </item>
+    <item
+        jar="E:\Android\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_0a9e658802fe6b5b2783728a5535b77aea24435b.jar" />
+    </item>
+    <item
+        jar="C:\161127\app\libs\httpcore-4.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e813b8722c387b22e1adccf7914729db09bcb4a9">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\httpcore-4.0.1_0cc123937ce02aff3afd36b9ff794be2a0f332e5.jar" />
+    </item>
+    <item
+        jar="C:\161127\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_c2798d6e55f40285e5af079e8d1818984a99910c.jar" />
+    </item>
+    <item
+        jar="C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_a3d6ca79416382584734e8354b375a9c287eda97.jar" />
+    </item>
+    <item
+        jar="C:\161127\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_c28848dd675d8cab9200822f48e42554f7815a83.jar" />
+    </item>
+    <item
+        jar="C:\161127\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_30b69936fff094b7a346fc761c9125640720ca44.jar" />
+    </item>
+    <item
+        jar="C:\161127\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_eb9d6d6cfc6d9ccdf8f312de691b93bb72daecc1.jar" />
+    </item>
+    <item
+        jar="C:\161127\app\build\intermediates\exploded-aar\com.kakao.sdk\kakaolink\1.1.16\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4e871188e21cd2c5759679c032b50ff456c8aa0e">
+        <dex dex="C:\161127\app\build\intermediates\pre-dexed\debug\com.kakao.sdk-kakaolink-1.1.16_8c416e6f92b7f97c8564aef1629dd826fc11c4dd.jar" />
+    </item>
+
+</items>

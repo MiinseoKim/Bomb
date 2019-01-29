@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    tools:showIn="@layout/app_bar_hw_plus"
+    android:background="@drawable/background_plus"
+    tools:context="org.androidtown.myapplication123.MainActivity">
+
+    <!--리스트추가 화면-->
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginLeft="10dp"
+        android:layout_centerVertical="true"
+        android:id="@+id/linearLayout"
+        android:layout_alignParentEnd="true">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="295dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:text="폭탄 이름 : "
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:id="@+id/tv_hwName"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:textIsSelectable="false"
+                android:textColor="#3d3d3d" />
+
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:adjustViewBounds="true"
+                android:id="@+id/et_hwName"
+                android:layout_below="@+id/textView"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:hint="ex)ppt제출하기"
+                android:textColor="#3d3d3d"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="295dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="설치 장소 : "
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:id="@+id/tv_hwSubject"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:textIsSelectable="false"
+                android:layout_below="@+id/et_hwName"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textColor="#3d3d3d"/>
+
+            <Spinner
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/et_hwSubject"
+                android:prompt="@string/spiner_promp"
+                android:layout_weight="3"
+                android:adjustViewBounds="true"
+                android:layout_below="@+id/tv_hwSubject"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textColor="#3d3d3d"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="295dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="폭파일 : "
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:id="@+id/tv_hwDate"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:textIsSelectable="false"
+                android:layout_below="@+id/et_hwName"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textColor="#3d3d3d"/>
+
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/dp_hwDate"
+                android:inputType="date"
+                android:ems="8"
+                android:layout_weight="3"
+                android:adjustViewBounds="true"
+                android:maxLength="8"
+                android:hint="20161214"
+                android:layout_below="@+id/tv_hwSubject"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:calendarViewShown="false"
+                android:datePickerMode="spinner"
+                android:textColor="#3d3d3d"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="295dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="10dp">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="폭탄 강도 : "
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:id="@+id/tv_hw123"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:textIsSelectable="false"
+                android:layout_below="@+id/et_hwName"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="center_vertical"
+                android:textColor="#3d3d3d"/>
+
+            <RadioGroup
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3"
+                android:id="@+id/rg_123"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="콩알탄"
+                    android:id="@+id/rdBtn_1"
+                    android:textColor="#3d3d3d"
+                    />
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/rdBtn_2"
+                    android:text="수류탄"
+                    android:textColor="#3d3d3d"/>
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="핵폭탄"
+                    android:id="@+id/rdBtn_3"
+                    android:textColor="#3d3d3d"/>
+            </RadioGroup>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="295dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="10dp">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="추가제거 : "
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:id="@+id/tv_hwDelay"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:textIsSelectable="false"
+                android:layout_below="@+id/et_hwName"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="center_vertical"
+                android:textColor="#3d3d3d"/>
+
+            <RadioGroup
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3"
+                android:id="@+id/rg_Possible"
+                android:transitionGroup="false"
+                android:touchscreenBlocksFocus="false"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="가능"
+                    android:id="@+id/rdOk"
+                    android:textColor="#3d3d3d"/>
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="불가능"
+                    android:id="@+id/rdNo"
+                    android:textColor="#3d3d3d"/>
+
+            </RadioGroup>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:id="@+id/btn_plus_ok"
+        android:layout_marginStart="65dp"
+        android:text="OK"
+        android:onClick="addDB"
+        android:textColor="#ffffff"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignStart="@+id/linearLayout" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="CANCEL"
+        android:id="@+id/btn_plus_no"
+        android:onClick="close"
+        android:layout_below="@+id/linearLayout"
+        android:layout_toEndOf="@+id/btn_plus_ok"
+        android:textColor="#ffffff" />
+
+
+</RelativeLayout>
